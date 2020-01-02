@@ -1,1 +1,1 @@
-# data_project_3_Numpy
+Boolean indexing with Nympy
